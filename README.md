@@ -1,4 +1,4 @@
 # BasementStudent
-- Personal blog about me, showing technology skills.
--Mobile First Approach.
--Practice Project
+Personal blog about me, showing technology skills.
+Mobile First Approach.
+Practice Project
